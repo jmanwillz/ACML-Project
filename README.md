@@ -1,6 +1,6 @@
 # ACML Project
 
-The project for AC & ML requires you to analyse a dataset using machine learning techniques and present your methods and results.
+The project for AC & ML requires you to analyse a dataset using machine learning techniques and present your methods and results. The specification can be found [here](./specification/ACML%20Project%202025.pdf).
 
 ## Team
 
