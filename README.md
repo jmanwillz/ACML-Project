@@ -6,6 +6,16 @@ The project for AC & ML requires you to analyse a dataset using machine learning
 
 The dataset being used for the project can be found at the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) and is the [Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing) dataset.
 
+## File Structure
+
+The report can be found [here](./report/ACML_Semester_Project.pdf).
+
+The code for the different models can be found in the following directories:
+
+- [Logistic Regression](./logreg/)
+- [Decision Trees and Random Forests](./decision-trees/)
+- [Artificial Neural Network](./artificial-neural-network/)
+
 ## Installation
 
 In order to set up the project please run the following commands:
