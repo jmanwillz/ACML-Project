@@ -40,5 +40,5 @@ pip install -r requirements.txt
 
 ## Team
 
-| ![Bongani Shube](images/bongani.jpeg "Bongani Shube") <br/> [Bongani Shube](https://www.linkedin.com/in/bonganishube/) | ![Jason Wille](images/jason.jpeg "Jason Wille") <br/> [Jason Wille](https://www.linkedin.com/in/jasonwille97/) | ![Preshen Goobiah](images/preshen.jpeg "Preshen Goobiah") <br/> [Preshen Goobiah](https://www.linkedin.com/in/preshen-goobiah-aa6b92149/) |
+| ![Bongani Shube](pictures/bongani.jpeg "Bongani Shube") <br/> [Bongani Shube](https://www.linkedin.com/in/bonganishube/) | ![Jason Wille](pictures/jason.jpeg "Jason Wille") <br/> [Jason Wille](https://www.linkedin.com/in/jasonwille97/) | ![Preshen Goobiah](pictures/preshen.jpeg "Preshen Goobiah") <br/> [Preshen Goobiah](https://www.linkedin.com/in/preshen-goobiah-aa6b92149/) |
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
